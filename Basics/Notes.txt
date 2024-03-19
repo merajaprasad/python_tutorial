@@ -1,0 +1,14 @@
+interpreter - it interpreates the command given in high level language and converts in machine lavel language
+
+python use interpreter and compiler both, if you write in a script then top to bottom it will interpreate all the lines one by one
+then will goive the output.
+
+
+DataTypes
+1. Integer = int
+2. String = str
+3. FlotingPoint = float
+4. Boolean = bool
+
+
+casting = converting the variale value from one datatype to another datatype
