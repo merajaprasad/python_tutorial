@@ -1,0 +1,10 @@
+Dictionary is allways in curly brackets
+Dictionary is allways key value-pair
+Dictionary values is allways be in double coation
+seperate the key-value pair allways (:) by colon
+at the end of every Items we have to use (,) to add new dictionary Items
+To print/iterate a Dictionary Items, we have to give "key-name/value" not index No like list.
+dictionary allways holds a Items value.
+dictionary values are called Items
+in dictionary we can print either key or value, but when we print both key-value then its called Items
+

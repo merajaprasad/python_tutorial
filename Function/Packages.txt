@@ -1,0 +1,18 @@
+Modules - Collection od Modules
+
+pip list - to check what are modules are installed in system
+
+
+
+
+
+
+Vertual Environment :
+pip install vertualenv
+python -m venv project-abc  # project-abc=project name
+source project-abc/bin/activate  # to activate the venv in linux OS
+deactivate # to deactivate the venv
+
+
+
+

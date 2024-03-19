@@ -1,0 +1,32 @@
+Data Structure Two Types
+1. Premetive and 2. Non-Premetive
+
+1. Premetive
+    premetive data structure 4 Types
+    1. integer
+    2. String
+    3. Boolean
+    4. Float
+
+2. Non premetive
+    Non premetive Data Structure is Two Types
+    1. Linear and 2. Non-Linear
+
+    1. Linear
+        a. List
+        b. Dictionary
+        c. Set
+        d. Tuple
+
+    2. Non-Linear
+        a. Linked-List
+        b. Graph
+        c. Tree
+
+
+
+
+''' get the details python '''
+print(type(variablename))
+print(dir(variablename))
+print(variablename.copy.__doc__)

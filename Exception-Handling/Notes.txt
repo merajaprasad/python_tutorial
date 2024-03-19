@@ -1,0 +1,14 @@
+Try
+Except
+Finally
+
+
+after 'Try','Except','Finally' key-word allways we have to use (:) colon
+with 'Try' key-word allways use 'Except' key-word
+when the error occur then only Except key-word will execute
+Finally key-word will allways execute wether exception/error will come or not
+
+
+# creating your own exception by 'Exception' key-word
+
+ex - raise Exception ("this is my own exception")

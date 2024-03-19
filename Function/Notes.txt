@@ -1,0 +1,36 @@
+# Advantage
+1. readibily
+2. reusability (modularity)
+3. Debugging
+
+function start with def keyword
+then we have to give function name followed by parentheses() and colon (:)
+ex- def function_name():
+
+
+# Function with return Key-Word - Parameterize Function
+its better to use function with return statement and taking inputs from others
+steps 1. take input 2.preform the required action 3.return the output
+
+benefits of function with return keyword :
+1. whoever will call this function as a module they can change the value of for variables like addition,submittion,multiplication as they want
+
+parameterie Function - when we define a parameter while declaring the function in () parentheses thats called parameter or argument.
+
+def addition(num1, num2):
+    add = num1 + num2
+    return add
+
+def submittion(num1, num2):
+    sub = num1 - num2
+    return sub
+
+def multiplication(num1, num2):
+    mul = num1 * num2
+    return mul
+ 
+print(addition(10, 5)) # using print key-word because variable values are not define befor, we have to define while calling a function in parentheses. like- 10, 5
+print(submittion(10, 5))
+print(multiplication(10, 5))
+
+

@@ -1,0 +1,4 @@
+tuple allways be written in () parentheses
+tuple is representated by parentheses()
+tuple values cannot be edited or changed, this is immutable
+tuple uses less storage and its faster then list

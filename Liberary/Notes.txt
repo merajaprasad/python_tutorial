@@ -1,0 +1,4 @@
+AWS = boto3
+SQL = pymysql
+MongoDB = pymongo
+sklearn = matchine learning

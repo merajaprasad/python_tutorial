@@ -1,0 +1,39 @@
+1. Write frist 10 even Number?
+2. Write first 10 Odd Number?
+3. what is the DataStructure that can hold multiple different values of dataTypes
+4. difference between tuple and list
+5. why tuple are immutable
+6. how to find intersection/common elements between two set values.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+''' get the details python '''
+print(type(variablename))
+print(dir(variablename))
+print(variablename.copy.__doc__)

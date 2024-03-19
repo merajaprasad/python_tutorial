@@ -1,0 +1,25 @@
+# First way to Create a List
+list_of_names = list()
+
+ex - list_of_names = list(["aws","azure","gcp"])
+
+# another way of creating a List
+list_of_names = []
+
+ex - list_of_names = ["aws","azure","gcp"]
+
+
+
+
+List can be identified by [] squre brackets
+
+
+diffetrence between Arrey and List
+
+Arrey is collection of similer Items but List is collection of Disimiler Items
+
+Arrey - names = ["aws","azure","gcp"]
+    here index values are same string data types
+
+List - names = ["aws","azure","True",5,10.5]
+    here index values are different data types

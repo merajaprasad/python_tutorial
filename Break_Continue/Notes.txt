@@ -1,0 +1,8 @@
+1. Break
+2. Continue
+3. pass
+
+
+
+pass - is used, when we do not have anything to print or return inside if-else statemnet then we can user 'pass' key-word.
+pass key-word simply ignore the if there is no code or statement inside if block, it will not give any error.

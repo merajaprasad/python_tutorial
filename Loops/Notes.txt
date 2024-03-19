@@ -1,0 +1,26 @@
+1. While Loop
+2. For Loop
+3. Use Cases
+
+loops is used for itteration purpose and loops allways work on range
+allways have to use (:) colon while declaring loops
+if we have any iterator then we have to use FOR Loop and if we have any condition then we have to use WHILE Loop
+
+# FOR LOOP
+range(10)
+for range(10) # here defining the for loops
+for i range(10) # Here "i" is a variable value
+for i in range(10): # Here "i" comes "in" range value
+
+
+# range also can contain start, end, increment or Decriment numbers
+# range(startNumber,endNumber, Increment or Decriment)
+# also for loop run till end Number -1
+
+range(2,11,1)
+
+#### Nested For Loop:
+
+
+
+# WHILE LOOP

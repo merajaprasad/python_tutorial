@@ -1,0 +1,14 @@
+Function = basic piece of logic, that can be re-use
+Module = Module is a group of function
+Packages - Collection od Modules. packages and liberary is same
+
+how we can call our own Module
+1. creation a function in a file like - function.py (filename)
+2. now create a module file
+3. call the function in this module file by using import keyword
+
+import function_name as basic_cal # create a module
+
+basic_cal  # calling all the function 
+basic_cal.addition # calling a peticular function from the function file
+

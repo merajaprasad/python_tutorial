@@ -1,0 +1,8 @@
+Set allways written in {} curly brackets
+set values cant be empty, a empty set will allyways contain value "None".
+    ex - set = {None}
+
+if set value is empty, then its a Dictionary not Set
+set does not contain duplicate values
+set does not follow Indexing Order
+

@@ -1,0 +1,28 @@
+1. IF ELSE
+2. ELIF
+3. Use Cases
+
+
+here we need to give (:) double colon while declaring if, else and elif all the statement
+
+
+### NESTED IF
+
+if condition1:
+    statement1
+    if condition2:
+        statement2
+    else:
+        statement3
+else:
+    statement4
+
+
+
+
+
+
+
+
+
+
