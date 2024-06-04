@@ -34,7 +34,7 @@ details_of_prodservers = {
     "active": True
 }
 
-servers_detils = [details_of_devservers,details_of_prodservers] # creating list of above dictionarys
+servers_detils = [details_of_devservers,details_of_prodservers] # creating list of above dictionarys to print both dic values together
 
 for server in servers_detils:
     print(server)  # here will get the key-value but in list data format but we want it in dictronary format
