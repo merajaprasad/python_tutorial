@@ -6,9 +6,11 @@ details_of_servers = {
     "active": True
 }
 
+print(details_of_servers["env"]) # iterate single value of dictionary
+
 details_of_servers.get("server")
 
-print(details_of_servers.get("server")) # iterage the single value of dictionary
+print(details_of_servers.get("server")) # iterage the single value of dictionary using get function
 
 if details_of_servers["active"]:
     print(details_of_servers["env"])
